@@ -1,7 +1,5 @@
 package org.vaadin.tbtests;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.jboss.arquillian.graphene.findby.FindByJQuery;
 import org.jboss.arquillian.graphene.page.Location;
 import org.junit.Assert;
